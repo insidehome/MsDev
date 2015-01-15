@@ -11,7 +11,7 @@ import java.util.Timer;
 import eyeprotectionproject.gui.EyesProtectionAlert;
 import eyeprotectionproject.task.NoticeTask;
 /**
- *  Git Test
+ *
  * @author msDev
  */
 public class EyesProtection extends javax.swing.JFrame {
